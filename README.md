@@ -6,6 +6,7 @@
   <img align="left" alt="Szak0's GitHub Stats" src="https://github-readme-stats-woad-one.vercel.app/api?username=Szak0&show_icons=true&hide_border=true" />
 
 </details>
+
 ### Connect with me:
 
 [<img align="left" alt="Szak0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
