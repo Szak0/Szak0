@@ -2,7 +2,6 @@
 
 <br />
 
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -10,9 +9,7 @@
 
 </details>
 
-### Connect with me:
-
-[<img align="left" alt="Szak0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 📫 How to reach me: [<img align="left" alt="Szak0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -34,19 +31,5 @@
 <img align="left" alt="AWS" width="26px" src="https://lavca.org/wp-content/uploads/2019/10/aws-logo-square.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://www.mirantis.com/wp-content/uploads/2018/03/first-beta-version-of-kubernetes-1-10-is-here-your-chance-to-provide-feedback.jpg" />
 
-<!--
-**Szak0/Szak0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 [linkedin]: https://www.linkedin.com/in/bence-szakacs/
