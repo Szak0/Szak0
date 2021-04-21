@@ -14,7 +14,10 @@
 
 [<img align="left" alt="Szak0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
+
 ### Technologies:
+
 <img align="left" alt="Java" width="26px" src="https://s3.amazonaws.com/karengryg.io/wp-content/uploads/2018/08/11112606/java-logo-e1534012340724.png" />
 <img align="left" alt="Python" width="26px" src="https://blog.insaid.co/wp-content/uploads/2019/04/Python-logo.jpg" />
 
