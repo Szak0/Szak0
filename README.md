@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Szak0's GitHub Stats" src="https://github-readme-stats-woad-one.vercel.app/api?username=Szak0&show_icons=true&hide_border=true" />
-
-</details>
 
 ### Connect with me:
 
@@ -29,7 +23,15 @@
 
 <br />
 <br />
+
 ---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Szak0's GitHub Stats" src="https://github-readme-stats-woad-one.vercel.app/api?username=Szak0&show_icons=true&hide_border=true" />
+
+</details>
 
 
 <!--
