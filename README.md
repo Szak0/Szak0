@@ -9,7 +9,9 @@
 
 </details>
 
-### 📫 How to reach me: [<img align="left" alt="Szak0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 📫 How to reach me: 
+
+[<img align="left" alt="Szak0 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
