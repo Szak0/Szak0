@@ -28,7 +28,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="AWS" width="26px" src="https://images.techhive.com/images/article/2015/05/aws-logo-100584713-primary.idge.jpg" />
+<img align="left" alt="AWS" width="26px" src="https://lavca.org/wp-content/uploads/2019/10/aws-logo-square.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://www.mirantis.com/wp-content/uploads/2018/03/first-beta-version-of-kubernetes-1-10-is-here-your-chance-to-provide-feedback.jpg" />
 
 <!--
