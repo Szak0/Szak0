@@ -15,7 +15,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Java" width="26px" src="https://icon2.cleanpng.com/20180715/ohc/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1bbcd03.5052416115316819697692.jpg" />
+<img align="left" alt="Java" width="26px" style="backgroundcolor: white" src="https://icon2.cleanpng.com/20180715/ohc/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1bbcd03.5052416115316819697692.jpg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
